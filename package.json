@@ -1,0 +1,24 @@
+{
+  "name": "devcamp-git",
+  "version": "1.0.0",
+  "description": "N/A",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TweakyTurnip875/devcamp-flexbox-course.git"
+  },
+  "author": "Noah Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TweakyTurnip875/devcamp-flexbox-course/issues"
+  },
+  "homepage": "https://github.com/TweakyTurnip875/devcamp-flexbox-course#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0"
+  }
+}
